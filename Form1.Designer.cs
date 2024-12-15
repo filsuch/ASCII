@@ -35,27 +35,27 @@
             // 
             // button1
             // 
-            button1.Location = new Point(514, 156);
+            button1.Location = new Point(472, 156);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 0;
-            button1.Text = "button1";
+            button1.Text = "Převod";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(176, 160);
+            label1.Location = new Point(401, 160);
             label1.Name = "label1";
-            label1.Size = new Size(38, 15);
+            label1.Size = new Size(35, 15);
             label1.TabIndex = 1;
-            label1.Text = "label1";
+            label1.Text = "ASCII";
             label1.Click += label1_Click;
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(315, 162);
+            textBox1.Location = new Point(268, 156);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(100, 23);
             textBox1.TabIndex = 2;
